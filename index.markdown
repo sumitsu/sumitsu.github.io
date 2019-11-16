@@ -1,3 +1,3 @@
 ---
-redirect_to: http://www.medium.com/@sumitsu
+redirect_to: https://medium.com/@sumitsu
 ---
